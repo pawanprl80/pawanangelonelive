@@ -1,0 +1,9 @@
+smartapi-python
+websocket-client
+logzero
+pandas
+numpy
+plotly
+pyotp
+pyttsx3
+kaleido==0.2.1
